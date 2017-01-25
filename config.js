@@ -2,7 +2,7 @@ define([], function(){
     return {
         "icon": "images/jb-icon.jpg",
         "iconSmall": "images/jb-icon.jpg", 
-        "key": "jbdev-ixn-api-v1-test-harness-activity",
+        "key": "xy2vrbie3dzxa2wgah2kcw5niwsg5jim5cxwhk1f3rf5xrbzxghxceozxjewa4hvulo0a3ndk1spj2z1zf3dyc0iea0arjl0e4antqv15fitpi2ii3pfzzddapcjcddvrxenbmgvvz1yrxow3nhywbqxcdbxemhn2zzohv151i4rq3deu21zbjv1wnxgruzpfm1qzhyb2qifp00gabov24ly4si51ngap0fcxfqhlabm5p4jdckrmfb43g4jkss",
         "partnerApiObjectTypeId": "IXN.CustomActivity.REST",
         "lang": {
             "en-US": {        
